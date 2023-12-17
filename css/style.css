@@ -92,10 +92,11 @@ body{
 @media(max-width:500px){
     .container{
         width: 250px;
+        height: 250px;
     }
     .container .form input,
     .container .form button{
         width: 200px;
-        height: 200px;
+        
     }
 }
